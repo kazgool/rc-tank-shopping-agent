@@ -1,0 +1,21 @@
+part_name,category,voltage,rpm,torque,size,quantity,notes
+DC Motor 12V 300RPM,Motors,12V,300RPM,2Nm,40mm,2,Main drive motors
+DC Motor 6V 100RPM,Motors,6V,100RPM,1Nm,28mm,2,Turret rotation
+Servo Motor 9g,Motors,4.8-6V,0.12s/60°,1.8kg-cm,23x12x29mm,2,Gun elevation control
+L298N Motor Driver,Controllers,5-35V,N/A,N/A,43x43x27mm,1,Dual H-bridge motor controller
+Arduino Uno R3,Controllers,5V,N/A,N/A,68x53mm,1,Main control board
+2.4GHz RC Transmitter Receiver,Controllers,6V,N/A,N/A,N/A,1,Remote control system
+Metal Tank Chassis,Chassis,N/A,N/A,N/A,300x200mm,1,Main frame with tracks
+Tank Tracks Rubber,Chassis,N/A,N/A,N/A,300mm,1 pair,Replacement tracks
+Aluminum Gearbox,Transmission,N/A,N/A,N/A,50x40mm,2,Metal gear reduction
+Ball Bearings 608ZZ,Bearings,N/A,N/A,N/A,8x22x7mm,10,Wheel and axle bearings
+LiPo Battery 11.1V 2200mAh,Power,11.1V,N/A,N/A,106x34x25mm,1,Main power source
+Battery Charger LiPo,Power,100-240V AC,N/A,N/A,N/A,1,Balance charger
+Voltage Regulator 5V 3A,Power,7-24V input,N/A,N/A,N/A,1,Arduino power supply
+Power Switch 10A,Power,12V,N/A,N/A,N/A,1,Main power switch
+JST Connector Set,Wiring,N/A,N/A,N/A,N/A,5 pairs,Battery connectors
+Dupont Wire Kit,Wiring,N/A,N/A,N/A,20cm,40 pieces,Arduino connections
+Heat Shrink Tubing,Wiring,N/A,N/A,N/A,Various,1 kit,Wire insulation
+M3 Screw Kit,Hardware,N/A,N/A,N/A,Various lengths,1 kit,Assembly hardware
+Nylon Standoffs M3,Hardware,N/A,N/A,N/A,Various,20 pieces,PCB mounting
+Super Glue,Adhesives,N/A,N/A,N/A,3g,2 tubes,General assembly

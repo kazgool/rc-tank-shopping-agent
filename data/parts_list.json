@@ -1,0 +1,206 @@
+[
+  {
+    "name": "DC Motor 12V 300RPM",
+    "category": "Motors",
+    "specs": {
+      "voltage": "12V",
+      "rpm": "300RPM",
+      "torque": "2Nm",
+      "size": "40mm",
+      "quantity": 2
+    },
+    "notes": "Main drive motors"
+  },
+  {
+    "name": "DC Motor 6V 100RPM",
+    "category": "Motors",
+    "specs": {
+      "voltage": "6V",
+      "rpm": "100RPM",
+      "torque": "1Nm",
+      "size": "28mm",
+      "quantity": 2
+    },
+    "notes": "Turret rotation"
+  },
+  {
+    "name": "Servo Motor 9g",
+    "category": "Motors",
+    "specs": {
+      "voltage": "4.8-6V",
+      "speed": "0.12s/60°",
+      "torque": "1.8kg-cm",
+      "size": "23x12x29mm",
+      "quantity": 2
+    },
+    "notes": "Gun elevation control"
+  },
+  {
+    "name": "L298N Motor Driver",
+    "category": "Controllers",
+    "specs": {
+      "voltage": "5-35V",
+      "size": "43x43x27mm",
+      "quantity": 1
+    },
+    "notes": "Dual H-bridge motor controller"
+  },
+  {
+    "name": "Arduino Uno R3",
+    "category": "Controllers",
+    "specs": {
+      "voltage": "5V",
+      "size": "68x53mm",
+      "quantity": 1
+    },
+    "notes": "Main control board"
+  },
+  {
+    "name": "2.4GHz RC Transmitter Receiver",
+    "category": "Controllers",
+    "specs": {
+      "frequency": "2.4GHz",
+      "voltage": "6V",
+      "quantity": 1
+    },
+    "notes": "Remote control system"
+  },
+  {
+    "name": "Metal Tank Chassis",
+    "category": "Chassis",
+    "specs": {
+      "size": "300x200mm",
+      "material": "Metal",
+      "quantity": 1
+    },
+    "notes": "Main frame with tracks"
+  },
+  {
+    "name": "Tank Tracks Rubber",
+    "category": "Chassis",
+    "specs": {
+      "length": "300mm",
+      "material": "Rubber",
+      "quantity": "1 pair"
+    },
+    "notes": "Replacement tracks"
+  },
+  {
+    "name": "Aluminum Gearbox",
+    "category": "Transmission",
+    "specs": {
+      "material": "Aluminum",
+      "size": "50x40mm",
+      "quantity": 2
+    },
+    "notes": "Metal gear reduction"
+  },
+  {
+    "name": "Ball Bearings 608ZZ",
+    "category": "Bearings",
+    "specs": {
+      "size": "8x22x7mm",
+      "type": "608ZZ",
+      "quantity": 10
+    },
+    "notes": "Wheel and axle bearings"
+  },
+  {
+    "name": "LiPo Battery 11.1V 2200mAh",
+    "category": "Power",
+    "specs": {
+      "voltage": "11.1V",
+      "capacity": "2200mAh",
+      "size": "106x34x25mm",
+      "quantity": 1
+    },
+    "notes": "Main power source"
+  },
+  {
+    "name": "Battery Charger LiPo",
+    "category": "Power",
+    "specs": {
+      "input": "100-240V AC",
+      "type": "Balance charger",
+      "quantity": 1
+    },
+    "notes": "Balance charger"
+  },
+  {
+    "name": "Voltage Regulator 5V 3A",
+    "category": "Power",
+    "specs": {
+      "input_voltage": "7-24V",
+      "output_voltage": "5V",
+      "current": "3A",
+      "quantity": 1
+    },
+    "notes": "Arduino power supply"
+  },
+  {
+    "name": "Power Switch 10A",
+    "category": "Power",
+    "specs": {
+      "voltage": "12V",
+      "current": "10A",
+      "quantity": 1
+    },
+    "notes": "Main power switch"
+  },
+  {
+    "name": "JST Connector Set",
+    "category": "Wiring",
+    "specs": {
+      "type": "JST",
+      "quantity": "5 pairs"
+    },
+    "notes": "Battery connectors"
+  },
+  {
+    "name": "Dupont Wire Kit",
+    "category": "Wiring",
+    "specs": {
+      "length": "20cm",
+      "quantity": "40 pieces"
+    },
+    "notes": "Arduino connections"
+  },
+  {
+    "name": "Heat Shrink Tubing",
+    "category": "Wiring",
+    "specs": {
+      "sizes": "Various",
+      "quantity": "1 kit"
+    },
+    "notes": "Wire insulation"
+  },
+  {
+    "name": "M3 Screw Kit",
+    "category": "Hardware",
+    "specs": {
+      "size": "M3",
+      "lengths": "Various",
+      "quantity": "1 kit"
+    },
+    "notes": "Assembly hardware"
+  },
+  {
+    "name": "Nylon Standoffs M3",
+    "category": "Hardware",
+    "specs": {
+      "size": "M3",
+      "material": "Nylon",
+      "quantity": "20 pieces"
+    },
+    "notes": "PCB mounting"
+  },
+  {
+    "name": "Super Glue",
+    "category": "Adhesives",
+    "specs": {
+      "size": "3g",
+      "quantity": "2 tubes"
+    },
+    "notes": "General assembly"
+  }
+]
